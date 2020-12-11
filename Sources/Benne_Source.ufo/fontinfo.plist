@@ -46,9 +46,9 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>832</integer>
+	<integer>1105</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>448</integer>
+	<integer>742</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-14</integer>
