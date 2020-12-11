@@ -11,3 +11,4 @@
 
 John Harrington <John@poststudio.net>
 Erin McLaughlin <hello@erinmclaughlin.com>
+Yanone <post@yanone.de>
