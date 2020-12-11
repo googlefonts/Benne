@@ -254,6 +254,10 @@
     <string>abreve.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
+    <key>acute.caps</key>
+    <string>acute.caps.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>ae</key>
@@ -364,6 +368,10 @@
     <string>bracketleft.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
+    <key>breve</key>
+    <string>breve.glif</string>
+    <key>breve.caps</key>
+    <string>breve.caps.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>brokenbar.ordn</key>
@@ -382,14 +390,24 @@
     <string>c.glif</string>
     <key>cacute</key>
     <string>cacute.glif</string>
+    <key>caron.caps</key>
+    <string>caron.caps.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
+    <key>cedilla</key>
+    <string>cedilla.glif</string>
+    <key>cedilla.caps</key>
+    <string>cedilla.caps.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
     <key>cent.sc</key>
     <string>cent.sc.glif</string>
+    <key>circumflex</key>
+    <string>circumflex.glif</string>
+    <key>circumflex.caps</key>
+    <string>circumflex.caps.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -432,6 +450,10 @@
     <string>degree.glif</string>
     <key>degree.sc</key>
     <string>degree.sc.glif</string>
+    <key>dieresis</key>
+    <string>dieresis.glif</string>
+    <key>dieresis.caps</key>
+    <string>dieresis.caps.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>divide.sc</key>
@@ -450,6 +472,8 @@
     <string>dollar.sups.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
+    <key>dotaccent.caps</key>
+    <string>dotaccent.caps.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
     <key>dotmath</key>
@@ -498,6 +522,8 @@
     <string>eth.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
     <key>f</key>
     <string>f.glif</string>
     <key>figuredash</key>
@@ -508,6 +534,8 @@
     <string>florin.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>foursuperior</key>
+    <string>foursuperior.glif</string>
     <key>fraction</key>
     <string>fraction.glif</string>
     <key>g</key>
@@ -518,6 +546,10 @@
     <string>gcommaaccent.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
+    <key>grave.caps</key>
+    <string>grave.caps.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>greater.ordn</key>
@@ -1500,6 +1532,10 @@
     <string>lslash.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>macron</key>
+    <string>macron.glif</string>
+    <key>macron.caps</key>
+    <string>macron.caps.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>minute</key>
@@ -1534,6 +1570,8 @@
     <string>odieresis.glif</string>
     <key>oe</key>
     <string>oe.glif</string>
+    <key>ogonek</key>
+    <string>ogonek.glif</string>
     <key>ograve</key>
     <string>ograve.glif</string>
     <key>ohungarumlaut</key>
@@ -1550,6 +1588,8 @@
     <string>onehalf.glif</string>
     <key>onequarter</key>
     <string>onequarter.glif</string>
+    <key>onesuperior</key>
+    <string>onesuperior.glif</string>
     <key>openbullet</key>
     <string>openbullet.glif</string>
     <key>ordfeminine</key>
@@ -1644,6 +1684,10 @@
     <string>registered.glif</string>
     <key>registered.sc</key>
     <string>registered.sc.glif</string>
+    <key>ring</key>
+    <string>ring.glif</string>
+    <key>ring.caps</key>
+    <string>ring.caps.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>sacute</key>
@@ -1696,6 +1740,12 @@
     <string>three.sups.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
+    <key>threesuperior</key>
+    <string>threesuperior.glif</string>
+    <key>tilde</key>
+    <string>tilde.glif</string>
+    <key>tilde.caps</key>
+    <string>tilde.caps.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
     <key>two</key>
@@ -1704,6 +1754,8 @@
     <string>two.sups.glif</string>
     <key>twodotenleader</key>
     <string>twodotenleader.glif</string>
+    <key>twosuperior</key>
+    <string>twosuperior.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>uacute</key>
@@ -1782,6 +1834,8 @@
     <string>uni2199.glif</string>
     <key>uni2213</key>
     <string>uni2213.glif</string>
+    <key>uni2215</key>
+    <string>uni2215.glif</string>
     <key>uni2223</key>
     <string>uni2223.glif</string>
     <key>uni2224</key>

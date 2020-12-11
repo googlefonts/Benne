@@ -3,7 +3,7 @@
   <advance width="1136"/>
   <outline>
     <component base="knTTA"/>
-    <component base="knmU" xOffset="789"/>
+    <component base="knmU" xOffset="784"/>
   </outline>
   <lib>
     <dict>

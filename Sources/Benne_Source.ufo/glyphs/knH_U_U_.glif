@@ -50,16 +50,6 @@
       <point x="221" y="71" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="380" y="381"/>
-      <point x="345" y="448"/>
-      <point x="229" y="470" type="curve"/>
-      <point x="229" y="435" type="line"/>
-      <point x="311" y="427"/>
-      <point x="340" y="363"/>
-      <point x="340" y="269" type="curve"/>
-      <point x="380" y="234" type="line"/>
-    </contour>
-    <contour>
       <point x="598" y="-14"/>
       <point x="669" y="64"/>
       <point x="669" y="162" type="curve" smooth="yes"/>
@@ -87,6 +77,16 @@
       <point x="619" y="113"/>
       <point x="564" y="71"/>
       <point x="497" y="71" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="380" y="234" type="line"/>
+      <point x="380" y="381"/>
+      <point x="345" y="448"/>
+      <point x="229" y="470" type="curve"/>
+      <point x="229" y="435" type="line"/>
+      <point x="311" y="427"/>
+      <point x="340" y="363"/>
+      <point x="340" y="269" type="curve"/>
     </contour>
     <component base="knmUU" xOffset="734"/>
   </outline>

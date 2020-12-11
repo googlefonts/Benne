@@ -2481,7 +2481,9 @@
       <string>florin</string>
       <string>uniFB01</string>
       <string>uniFB02</string>
+      <string>circumflex</string>
       <string>uni0374</string>
+      <string>circumflex.caps</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
       <string>knA</string>
@@ -2620,9 +2622,13 @@
       <string>knSeven</string>
       <string>knEight</string>
       <string>knNine</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>onesuperior</string>
       <string>onequarter</string>
       <string>onehalf</string>
       <string>threequarters</string>
+      <string>foursuperior</string>
       <string>underscore</string>
       <string>hyphen</string>
       <string>uni2010</string>
@@ -2662,6 +2668,7 @@
       <string>question</string>
       <string>at</string>
       <string>backslash</string>
+      <string>exclamdown</string>
       <string>section</string>
       <string>paragraph</string>
       <string>periodcentered</string>
@@ -2734,6 +2741,7 @@
       <string>arrowboth</string>
       <string>minus</string>
       <string>uni2213</string>
+      <string>uni2215</string>
       <string>uni2223</string>
       <string>uni2224</string>
       <string>uni2225</string>
@@ -2807,9 +2815,26 @@
       <string>dollar.sups</string>
       <string>Euro.tablining</string>
       <string>asciicircum</string>
+      <string>grave</string>
+      <string>dieresis</string>
+      <string>macron</string>
+      <string>acute</string>
+      <string>cedilla</string>
       <string>uni02C4</string>
+      <string>breve</string>
+      <string>ring</string>
+      <string>ogonek</string>
+      <string>tilde</string>
       <string>uni02DE</string>
       <string>uni02F7</string>
+      <string>grave.caps</string>
+      <string>dieresis.caps</string>
+      <string>macron.caps</string>
+      <string>acute.caps</string>
+      <string>cedilla.caps</string>
+      <string>breve.caps</string>
+      <string>ring.caps</string>
+      <string>tilde.caps</string>
       <string>asciicircum.ordn</string>
       <string>asciicircum.sc</string>
       <string>asciicircum.sinf</string>
@@ -3205,6 +3230,8 @@
       <string>knYU</string>
       <string>knYUU</string>
       <string>virama</string>
+      <string>caron.caps</string>
+      <string>dotaccent.caps</string>
       <string>knSSAc2.kssa</string>
     </array>
   </dict>
