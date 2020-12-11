@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knO" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knO" format="2">
   <advance width="684"/>
   <unicode hex="0C92"/>
   <outline>
@@ -76,31 +76,6 @@
       <integer>8</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=knBA</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knO</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>684</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

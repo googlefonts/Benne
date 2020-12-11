@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="virama" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="virama" format="2">
   <advance width="236"/>
   <outline>
     <contour>
@@ -33,33 +33,4 @@
       <point x="93" y="265" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>virama</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>236</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

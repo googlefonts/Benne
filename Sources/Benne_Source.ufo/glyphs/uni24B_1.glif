@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni24B1" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni24B1" format="2">
   <advance width="1045"/>
   <unicode hex="24B1"/>
   <outline>
@@ -138,33 +138,4 @@
       <point x="531" y="-22" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni24B1</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1045</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

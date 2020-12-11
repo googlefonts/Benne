@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knKI" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knKI" format="2">
   <advance width="505"/>
+  <anchor x="285" y="0" name="blwm.kssa"/>
   <outline>
     <contour>
       <point x="348" y="-14"/>
@@ -79,9 +80,6 @@
       <point x="185" y="360" type="curve"/>
       <point x="234" y="314" type="line"/>
     </contour>
-    <contour>
-      <point x="285" y="0" type="move" name="blwm.kssa"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -91,31 +89,6 @@
       <string>=knKA</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=knKA</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knKI</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>505</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

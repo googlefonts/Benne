@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knRRA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knRRA" format="2">
   <advance width="797"/>
   <unicode hex="0CB1"/>
   <outline>
@@ -84,31 +84,6 @@
       <string>=knCHA</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=knCHA</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knRRA</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>797</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

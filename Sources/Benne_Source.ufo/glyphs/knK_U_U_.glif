@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knKUU" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knKUU" format="2">
   <advance width="1192"/>
+  <anchor x="270" y="0" name="blwm.kssa"/>
   <outline>
     <contour>
       <point x="348" y="-14"/>
@@ -74,9 +75,6 @@
       <point x="40" y="434" type="line"/>
     </contour>
     <component base="knmUU" xOffset="489"/>
-    <contour>
-      <point x="270" y="0" type="move" name="blwm.kssa"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -86,40 +84,8 @@
       <string>=knKA</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=knUU</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knKUU</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1192</integer>
-        </dict>
-      </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <integer>1</integer>
-        <real>0.842</real>
-        <real>0.674</real>
-        <integer>1</integer>
-      </array>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>1,0.842,0.674,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knSHAU" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knSHAU" format="2">
   <advance width="968"/>
   <outline>
     <contour>
@@ -84,31 +84,6 @@
       <string>=knSHA</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=knmAU</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knSHAU</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>968</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="arrowup" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowup" format="2">
   <advance width="438"/>
   <unicode hex="2191"/>
   <outline>
@@ -57,33 +57,4 @@
       <point x="206" y="-180" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>arrowup</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>438</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

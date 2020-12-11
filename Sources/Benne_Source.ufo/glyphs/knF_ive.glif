@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knFive" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knFive" format="2">
   <advance width="618"/>
   <unicode hex="0CEB"/>
   <outline>
@@ -84,31 +84,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>10</integer>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knFive</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>618</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

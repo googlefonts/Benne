@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="daggerdbl.ordn" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl.ordn" format="2">
   <advance width="440"/>
   <outline>
     <contour>
@@ -193,33 +193,4 @@
       <point x="220" y="162" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>daggerdbl.ordn</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>440</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

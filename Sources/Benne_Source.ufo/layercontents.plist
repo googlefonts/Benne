@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>foreground</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>bkgd</string>
+      <string>glyphs.bkgd</string>
+    </array>
+    <array>
+      <string>Regular Mar 7 16, 15:16</string>
+      <string>glyphs.R_egular M_ar 7 16, 15_16</string>
+    </array>
+  </array>
+</plist>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="knBHA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knBHA" format="2">
   <advance width="747"/>
   <unicode hex="0CAD"/>
   <outline>
@@ -111,31 +111,6 @@
       <string>=knBA</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=knBA+5</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>bkgd</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>knBHA</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>747</integer>
-        </dict>
-      </dict>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>
