@@ -14,6 +14,10 @@
     <string>Benne</string>
     <key>guidelines</key>
     <array/>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeHeadCreated</key>
     <string>2015/09/28 17:09:01</string>
     <key>openTypeHheaAscender</key>
