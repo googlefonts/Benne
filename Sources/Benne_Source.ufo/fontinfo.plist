@@ -33,6 +33,8 @@
 	<string>Benne</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
+    <key>openTypeOS2Type</key>
+    <array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>630</integer>
 	<key>openTypeOS2TypoDescender</key>
