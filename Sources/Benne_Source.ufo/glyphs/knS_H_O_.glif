@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knSHO" format="2">
+  <advance width="1279"/>
+  <outline>
+    <component base="knSHE"/>
+    <component base="knmUU" xOffset="576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knSHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knUU</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

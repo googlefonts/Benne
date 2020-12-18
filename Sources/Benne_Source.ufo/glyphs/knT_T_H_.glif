@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knTTH" format="2">
+  <advance width="816"/>
+  <outline>
+    <component base="virama" xOffset="570"/>
+    <component base="knTTHA.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knTTHA</string>
+      <key>public.markColor</key>
+      <string>1,0.842,0.674,1</string>
+    </dict>
+  </lib>
+</glyph>

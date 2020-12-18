@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="knJHUU" format="2">
+  <advance width="1924"/>
+  <outline>
+    <component base="knJHA"/>
+    <component base="knmUU" xOffset="1221"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knJHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knUU</string>
+      <key>public.markColor</key>
+      <string>1,0.842,0.674,1</string>
+    </dict>
+  </lib>
+</glyph>
